@@ -1,4 +1,4 @@
-<h1> GuideXP Landing Page (2019 S2) </h1>
+<h1> GuideXP Landing Page (2020 S1) </h1>
 
 
 <h2><a name = "content"> Contents </a></h2>
@@ -14,18 +14,14 @@
 
 <h2><a name = "Title1"> 1. Links Summary </a></h2>
 
-* [GuideXP Previous Landing Page](https://github.com/DannyFirmin/GuideXP)
+* [GuideXP 2019 S1 Landing Page](https://github.com/DannyFirmin/GuideXP)
+* [GuideXP 2019 S2 Landing Page](https://github.com/LiangHong95/GuideXP-S2)
 * [GuideXP Vistor System](http://www.guidexp.me/)
 
 Update after Audit 3 presentation: The latest visitor system we showed on Audit 3 presentation is now been deployed!
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
 * [GuideXP API](http://13.239.36.190/api/get_exhibition/en/1/all)
-
-The latest API we shown on Audit 3 is been deployed, check it here
-
-
-* [GuideXP Agile Board (Trello)](https://trello.com/b/ggidOa5S/guidexp-user-stories) (You should have the premission to access)
  
  We write lots of code every week, check it here
 * [GuideXP Code Git-repo](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
@@ -34,25 +30,11 @@ The latest API we shown on Audit 3 is been deployed, check it here
 
 [**Decision logs**](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
 
-[**Audit1 Reflection**](https://docs.google.com/document/d/13hkFeUvVKRl0q7YRNX6cA4Y5EW2OEzHt0DYvA1Bi8G4/edit?usp=sharing)
-
-[**Audit2 Reflection**](https://docs.google.com/document/d/1QOrpApCTEfTQurlnSUaJKrWUrxI4XjpGaDWkxBIIA6I/edit?usp=sharing)
-
-[**Audit3 Reflection**](https://docs.google.com/document/d/1RE6Rl417hDRIgIojP37IzXoAgKHQd2aKwPTZ0if9__Q/edit?usp=sharing)
-
 [**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
 
 [**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
 
-[**Test and feedback log**](https://docs.google.com/spreadsheets/d/15Neb1FO2DRY-3b5u-xMBzYsHoSPdGkWzDAtxeHkRSyU/edit?usp=sharing)
-
-[**GUIDEXP Audit Presentation1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
-
-[**GUIDEXP Audit Presentation2**](https://docs.google.com/presentation/d/12FtHkg2daI94SvBCI93p9lNCL-8M5AQZ4MjtKNVIpvc/edit)
-
-[**GUIDEXP Audit Presentation3**](https://drive.google.com/file/d/1SFIrYeZB1FeJrYKnptIVr3Nhr9JebX-f/view?usp=sharing)
-
-[**Posters**](https://drive.google.com/file/d/1wdRti8IROds1x3PbCkhRgnCQ7zKfYC5-/view?usp=sharing)
+[**GUIDEXP Project Audit 1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
 
 [**National Capital Exhibition Photo & Text data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
 
@@ -121,13 +103,10 @@ Visitors, Content creaters, galleries and museums
 
 | Team Member                      | Role                                     | 
 |----------------------------------|------------------------------------------| 
-| Kelin Zhu                        | Project manager,scrum manager            | 
-| Rutai Sun                        | Back-end(logic,algorithm)                | 
-| Liang Hong                       | Back-end(database,test)                  |
-| Yu Qiu                           | Back-end, API                            | 
-| Yuanze Niu                       | Front-end (HTML,CSS), Documentation      | 
-| Danny Feng                       | Front-end (HTML,CSS), Documentation      | 
-| Tianai Qiu                       | Front-end (HTML,CSS), Documentation      |             
+| Tianai Qiu                       | Project manager,scrum manager            | 
+| Bo Liu                           | Front-end (HTML,CSS), Documentation      | 
+| Yihua Zhang                      | Front-end (HTML,CSS), Documentation      |
+| Yu Qiu                           | Back-end, API, Documentation             |              
 
 **Agile Tasks Assignment and User Stories**
 
