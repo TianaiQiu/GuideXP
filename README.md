@@ -8,8 +8,7 @@
 <a href = "#Title3"><b> 4. Stakeholders </b></a><br/>
 <a href = "#Title4"><b> 5. Code and Documentation </b></a><br/>
 <a href = "#Title5"><b> 6. Team Roles and Management </b></a><br/>
-<a href = "#Title6"><b> 7. Prototypes </b></a><br/>
-<a href = "#Title7"><b> 8. Timeline and Milestones </b></a><br/>
+<a href = "#Title7"><b> 7. Timeline and Milestones </b></a><br/>
 
 
 <br />
@@ -100,11 +99,8 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 ![Trello](https://github.com/LiangHong95/GuideXP-S2/blob/master/trello.png)<br/>
 
 
-<h2><a name = "Title6"> 7. Prototypes </a></h2>
 
-
-
-<h2><a name = "Title7"> 8. Timeline and Milestones</a></h2>
+<h2><a name = "Title7"> 7. Timeline and Milestones</a></h2>
 
 **Timeline:**
 
