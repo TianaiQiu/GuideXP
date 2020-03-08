@@ -6,41 +6,23 @@
 <a href = "#Title2"><b> 2. Project Description </b></a><br/>
 <a href = "#Title3"><b> 3. Project Objectives </b></a><br/>
 <a href = "#Title3"><b> 4. Stakeholders </b></a><br/>
-<a href = "#Title4"><b> 5. Documentation </b></a><br/>
+<a href = "#Title4"><b> 5. Code and Documentation </b></a><br/>
 <a href = "#Title5"><b> 6. Team Roles and Management </b></a><br/>
 <a href = "#Title6"><b> 7. Prototypes </b></a><br/>
-<a href = "#Title7"><b> 8. Timeline </b></a><br/>
-<a href = "#Title7"><b> 9. Milestones </b></a><br/>
+<a href = "#Title7"><b> 8. Timeline and Milestones </b></a><br/>
+
 
 <br />
 
-<h2><a name = "Title1"> 1. Links Summary </a></h2>
+<h2><a name = "Title1"> 1. Links Summary For Previous Semesters </a></h2>
 
 * [GuideXP 2019 S1 Landing Page](https://github.com/DannyFirmin/GuideXP)
 * [GuideXP 2019 S2 Landing Page](https://github.com/LiangHong95/GuideXP-S2)
 * [GuideXP Vistor System](http://www.guidexp.me/)
-
-Update after Audit 3 presentation: The latest visitor system we showed on Audit 3 presentation is now been deployed!
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
-* [GuideXP API](http://13.239.36.190/api/get_exhibition/en/1/all)
  
- We write lots of code every week, check it here
-* [GuideXP Code Git-repo](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
-[**Google Drive Documents**](https://drive.google.com/drive/folders/1O7Mul39BX1Jrt4N7aUkZ0SBubHKRWP9a?usp=sharing)
-
-[**Decision logs**](https://docs.google.com/spreadsheets/d/1scjGys2zqBkLLp7vvSz-UzyEMPZI8SkM6shNRGYsYP0/edit#gid=0)
-
-[**Meeting minutes**](https://drive.google.com/drive/folders/1LMdgXdwDLt9_uVhTUprtSe14U97PyhfC)
-
-[**Risk Management**](https://docs.google.com/spreadsheets/d/1eNhxivICWJnMlS-Gg9OEO41WBAhf0jAOtbw4So1bZpU/edit)
-
-[**GUIDEXP Project Audit 1**](https://docs.google.com/presentation/d/1IsWbMngdjHLH1pDuzSuXD56Tbi4LP3VLMtLNua-6ApA/edit)
-
-[**National Capital Exhibition Photo & Text data**](https://drive.google.com/drive/folders/1VlotpVTVmUw4luM2NpOwB_I1cFVMgYhd?usp=sharing)
-
-(The archive folder is the documents from Semester 1, if you are examining us for the documents of Semester 2, please ignore archive, all the required documents can be found in the previous links.)
 
 
 <br />
@@ -53,7 +35,7 @@ The GuideXP Team consists of four members plus the our ANU TechLauncher team (TB
 
 
 <br />
-<h2><a name = "Title3"> 3. Outputs </a></h2>
+<h2><a name = "Title3"> 3. Project Objectives </a></h2>
 
 **The Systems We Developed last semester**
 
@@ -97,9 +79,29 @@ Visitors, Content creaters, galleries and museums
 
 <br />
 
+<h2><a name = "Title5"> 5. Code and Documentation </a></h2>
+
+ We write lots of code every week, check it here:
+[**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
+
+**Documentation**
+
+[**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
+
+[**Satement of Work**]()
+
+[**Non-Disclosure Agreement**]()
+
+[**Decision Log**]()
+
+[**Meeting Minutes**](https://drive.google.com/drive/folders/1h3PqQCQRvhWUd26UFqAXK24vy-yfvR3_)
+
+[**Risk Register**]()
+
+[**Project Constraints**]()
 
 
-<h2><a name = "Title5"> 5. Team Roles and Management </a></h2>
+<h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
 
 **Roles**
 
@@ -112,34 +114,26 @@ Visitors, Content creaters, galleries and museums
 
 **Agile Tasks Assignment and User Stories**
 
-[Trello](https://trello.com/b/ggidOa5S/guidexp-user-stories) <br />
+[Trello](https://trello.com/b/XKZ5eXEm/guidexp-techlauncher-2020) <br />
 ![Trello](https://github.com/LiangHong95/GuideXP-S2/blob/master/trello.png)<br/>
 
 
-**Team Communication**
-
-Team meetings <br />
-Team activities <br />
-Slack <br />
-Meeting Minutes <br />
-<br />
-
-<h2><a name = "Title6"> 6. Prototypes </a></h2>
+<h2><a name = "Title6"> 7. Prototypes </a></h2>
 
 [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 [Wordpress](http://www.guidexp.me/) <br />
 
-<h2><a name = "Title7"> 7. Schedule </a></h2>
+<h2><a name = "Title7"> 8. Timeline and Milestones</a></h2>
 
-**Schedule:**
+**Timeline:**
 
 |Period               |    Schedule                                                                                  | 
 |---------------------|----------------------------------------------------------------------------------------------| 
-|Week2 - Week3        |Discovery of requirements, organize all files and documents.                                  |
-|Week4                |Optimize existing system to support new requirements.                                         |
-|Week5 - Week6        |Improve interface of the prototype guide Website.                                             |
-|Week7 - Week8        |Data management.                                                                              |
-|Week9 - Week10       |Finalize implementation of multi-language feature, prepare testing.                           |
+|Week2                |Discovery of requirements, organize all files and documents.                                  |
+|Week3 -Week4         |Design Admin panel and create a wireframe for it.                                             |
+|Week5 - Week6        |Implement the design of Admin panel.                                                          |
+|Week7 - Week8        |                                                                                              |
+|Week9 - Week10       |Finalize implementation of Admin panel, prepare testing.                                      |
 |Week11 - week12      |Test, debug and gather feedback from clients and pass onto our clients.                       |
 
 <br />
@@ -149,12 +143,11 @@ Meeting Minutes <br />
 | Phase          |    Milestones                                                                               | 
 |----------------|---------------------------------------------------------------------------------------------| 
 | Phase 1        |Discovery report.                                                                            |
-| Phase 2        |All files and documents organized.                                                           |
-| Phase 3        |Database construction and webpage functions.                                                 |
-| Phase 4        |Useable prototype guide of several example exhibitions from the National Capital Exhibition. |
-| Phase 5        |Website supports multi-language.                                                             |
-| Phase 6        |Improved guide for the National Capital Exhibition with provided exhibition data.            |
-| Phase 7        |Test the website and pass to clients                                                         |
+| Phase 2        |The design of Admin panel be confirmed by clients.                                           |
+| Phase 3        |Useable prototype of Admin panel.                                                            |
+| Phase 4        |Improved version of Admin panel.                                                             |
+| Phase 5        |The Admin panel works with modern desktop web browsers and mobile devices.                   |
+                                                      
 
 <br />
 
