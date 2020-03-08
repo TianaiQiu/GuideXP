@@ -21,25 +21,42 @@
 * [GuideXP Vistor System](http://www.guidexp.me/)
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
- 
-
+* [Design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
+* Database design
+    - [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
+    - [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
+    - [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
 
 
 <br />
 <h2><a name = "Title2"> 2. Project Description </a></h2>
 
 The [GuideXP](https://guidexp.wordpress.com) is a local startup in Canberra with the vision of creating immersive visitor experiences for galleries, museums and more. GuideXP is a unique, cloud-based approach to audio guides, which allows for access to content from multiple attractions in one place and aims to minimise effort required in uploading and updating content.
-In 2019, GuideXP is partnering with the ANU TechLauncher program to kick start our development. The program will enable us to create a first stage of our product roadmap while engaging with students and providing them real world experience.
-We are currently seeking a partner institution to create or share visitor experience content and provide us with feedback as we develop the minimum viable product and test our value propositions. The partner institution will benefit from free use of the service for the duration of 2019.
-The GuideXP Team consists of four members plus the our ANU TechLauncher team (TBC), with a myriad of experience in tech delivery projects, startups, and visitor experience. We are motivated and excited by the prospect of working with a renowned institution such as the National Capital Exhibition.
+In 2019, GuideXP partnered with the ANU TechLauncher program to kick start our development. The program will create a first stage of the product roadmap while engaging with students and providing them real world experience.
 
+Until now, GuideXP has created a guide for the National Capital Exhibition (NCE),  and multi-language function has been realized with a well-designed database. Currently, four languages are supported: English, Mandarin, Korean and Japanese. This semester(2020 S1) the project will focus more on stakeholders who are content creators or uploaders to enable them to create and edit exhibitions in a convenient way.
+
+The GuideXP Team consists of four members plus the ANU TechLauncher team, with a myriad of experience in tech delivery projects, startups, and visitor experience. GuideXP are still seeking more partner institutions to create or share visitor experience content and provide feedback as development of the minimum viable product and test of value propositions. The partner institution will benefit from free use of the service for the duration of 2020.
 
 <br />
 <h2><a name = "Title3"> 3. Project Objectives </a></h2>
 
-**The Systems We Developed last semester**
+1. Design a clean, user-friendly Admin panel for content creators to upload and manage contents easily.
+2. Enable content creators to have their own account for content management. 
 
-As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We have provided this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please [open an issue](https://github.com/DannyFirmin/GuideXP/issues) in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
+
+<h2><a name = "Title4"> 4. Stakeholders </a></h2>
+
+Visitors, Content creaters, galleries and museums
+
+<br />
+
+<h2><a name = "Title5"> 5. Code and Documentation </a></h2>
+
+
+**Code**
+
+As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We will provide this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please [open an issue](https://github.com/DannyFirmin/GuideXP/issues) in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
 
 * Visitor System:  
   * Deployed Address: http://new.guidexp.me/
@@ -61,29 +78,10 @@ As our client required, our source code is not open to the public. You need to u
   * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
   * Configured Crazy Domains AU for DNS and domains
   * Configured nginx/uWSGI/Ubuntu
-
-**Other Files**
-
-* [Statement of work](https://github.com/LiangHong95/GuideXP-S2/blob/master/Statement%20of%20Work.pdf)
-* [Design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
-* Database design
-    - [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
-    - [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
-    - [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
-
-
-
-<h2><a name = "Title4"> 4. Stakeholders </a></h2>
-
-Visitors, Content creaters, galleries and museums
-
-<br />
-
-<h2><a name = "Title5"> 5. Code and Documentation </a></h2>
-
- We write lots of code every week, check it here:
+  
 [**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
+<br />
 **Documentation**
 
 [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
