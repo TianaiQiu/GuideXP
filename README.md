@@ -15,17 +15,25 @@
 <br />
 
 <h2><a name = "Title1"> 1. Links Summary For Previous Semesters </a></h2>
+Landing Pages:
 
 * [GuideXP 2019 S1 Landing Page](https://github.com/DannyFirmin/GuideXP)
 * [GuideXP 2019 S2 Landing Page](https://github.com/LiangHong95/GuideXP-S2)
+
+GuideXP System:
 * [GuideXP Vistor System](http://www.guidexp.me/)
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
-* [Design of website](https://github.com/LiangHong95/GuideXP-S2/blob/master/Architecture.png)
-* Database design
-    - [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
-    - [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
-    - [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
+Prototypes:
+* [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
+* [Wordpress](http://www.guidexp.me/) <br />
+
+Database design:
+* [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
+* [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
+* [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
+
+Other Documents:
 * [Other documents](https://drive.google.com/drive/folders/1vlHtUTdZJLL3UvgfdeNcpHwl79rGUgx4)
 
 <br />
@@ -47,7 +55,6 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
 
-Visitors, Content creaters, galleries and museums
 
 <br />
 
@@ -55,29 +62,6 @@ Visitors, Content creaters, galleries and museums
 
 
 **Code**
-
-As our client required, our source code is not open to the public. You need to use the GitHub account we provided to view the source code. We will provide this account in our audit presentation. We also sent an email that includes this account to tutors, examiners and shadow team. If you didn't get the account, please [open an issue](https://github.com/DannyFirmin/GuideXP/issues) in this repository and leave your email address, we will send it to you as soon as possible. We do apologise to the inconvenience.
-
-* Visitor System:  
-  * Deployed Address: http://new.guidexp.me/
-  * [Source Code](https://github.com/DannyFirmin/GuideXP-Codes/tree/master/front-end) (Need to apply for permission here: http://new.guidexp.me/audit/)
-  * JavaScript
-  * Html/CSS
-  * Bootstrap
-* Administrator System: 
-  * Deployed Address: http://admin.guidexp.me/
-  * [Source Code](https://github.com/DannyFirmin/GuideXP-Codes/tree/master/back-end) (Need to apply for permission here: http://new.guidexp.me/audit/)
-  * Django
-  * Django REST framework
-  * MySQL
-  * Bootstrap
-* API:
-  * Return all exhibitions as JSON (NEW): http://13.239.36.190/api/get_exhibition/en/1/all
-  * Return the art's collection as JSON: http://admin.guidexp.me/api/exhibition/ExhibitionTest/
-* Servers:
-  * Configured Amazon Web Services (AWS) - Elastic Compute Cloud (EC2)
-  * Configured Crazy Domains AU for DNS and domains
-  * Configured nginx/uWSGI/Ubuntu
   
 [**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
@@ -118,8 +102,7 @@ As our client required, our source code is not open to the public. You need to u
 
 <h2><a name = "Title6"> 7. Prototypes </a></h2>
 
-[GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
-[Wordpress](http://www.guidexp.me/) <br />
+
 
 <h2><a name = "Title7"> 8. Timeline and Milestones</a></h2>
 
