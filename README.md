@@ -1,14 +1,16 @@
 <h1> GuideXP Landing Page (2020 S1) </h1>
 
 
-<h2><a name = "content"> Contents </a></h2>
-<a href = "#Title1"><b> 1. Links Summary</b></a><br/>
+<h2><a name = "content"> Content </a></h2>
+<a href = "#Title1"><b> 1. Links Summary For Previous Semesters</b></a><br/>
 <a href = "#Title2"><b> 2. Project Description </b></a><br/>
-<a href = "#Title3"><b> 3. Outputs </b></a><br/>
-<a href = "#Title4"><b> 4. Stakeholders </b></a><br/>
-<a href = "#Title5"><b> 5. Team Roles and Management </b></a><br/>
-<a href = "#Title6"><b> 6. Prototypes </b></a><br/>
-<a href = "#Title7"><b> 7. Schedule </b></a><br/>
+<a href = "#Title3"><b> 3. Project Objectives </b></a><br/>
+<a href = "#Title3"><b> 4. Stakeholders </b></a><br/>
+<a href = "#Title4"><b> 5. Documentation </b></a><br/>
+<a href = "#Title5"><b> 6. Team Roles and Management </b></a><br/>
+<a href = "#Title6"><b> 7. Prototypes </b></a><br/>
+<a href = "#Title7"><b> 8. Timeline </b></a><br/>
+<a href = "#Title7"><b> 9. Milestones </b></a><br/>
 
 <br />
 
