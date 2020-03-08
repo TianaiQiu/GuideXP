@@ -26,7 +26,7 @@
     - [first vision](https://www.lucidchart.com/invitations/accept/39d53fbc-2016-4d15-a900-5f4fec0fa3a1) 
     - [second vision](https://www.lucidchart.com/invitations/accept/417d04a8-97d1-422d-bb2d-6080383ad8e0)
     - [third vision](https://www.lucidchart.com/invitations/accept/3d2586b6-eec2-4e6a-8d67-1ba96490d14f) 
-
+* [Other documents](https://drive.google.com/drive/folders/1vlHtUTdZJLL3UvgfdeNcpHwl79rGUgx4)
 
 <br />
 <h2><a name = "Title2"> 2. Project Description </a></h2>
@@ -81,16 +81,16 @@ As our client required, our source code is not open to the public. You need to u
   
 [**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
-<br />
-**Documentation**
+
+**Documentation:**
 
 [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
-[**Satement of Work**]()
+[**Satement of Work**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
 [**Non-Disclosure Agreement**]()
 
-[**Decision Log**]()
+[**Decision Log**](https://docs.google.com/spreadsheets/d/1hQt11Xt4dzNecmyvOS8pPnrNFop7u1uW/edit#gid=1651838644)
 
 [**Meeting Minutes**](https://drive.google.com/drive/folders/1h3PqQCQRvhWUd26UFqAXK24vy-yfvR3_)
 
