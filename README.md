@@ -55,13 +55,14 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 <h2><a name = "Title4"> 4. Stakeholders </a></h2>
 
+[Stakeholders Analysis](https://docs.google.com/document/d/1hDFjIDjssqOJJuoqBi19sYtM-zO9WH9V/edit) <br />
 
-<br />
+
 
 <h2><a name = "Title5"> 5. Code and Documentation </a></h2>
 
 
-**Code**
+**Code:**
   
 [**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
@@ -70,17 +71,17 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
-[**Satement of Work**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
+[**Satement of Work**](https://docs.google.com/document/d/1KDpQxmzQtpwUtSozkL6lHMTC8LhZd5kU/edit)
 
-[**Non-Disclosure Agreement**]()
+[**Non-Disclosure Agreement**](https://docs.google.com/document/d/1mmaRMbnbYcJxdF6QGXykJa_VQpWZYXWF/edit)
 
 [**Decision Log**](https://docs.google.com/spreadsheets/d/1hQt11Xt4dzNecmyvOS8pPnrNFop7u1uW/edit#gid=1651838644)
 
 [**Meeting Minutes**](https://drive.google.com/drive/folders/1h3PqQCQRvhWUd26UFqAXK24vy-yfvR3_)
 
-[**Risk Register**]()
+[**Risk Register**](https://docs.google.com/spreadsheets/d/1PbCzzLfY3EfaVZAUgcWpIOn0kBLQdsFeYNPnOcr0tRk/edit#gid=0)
 
-[**Project Constraints**]()
+[**Project Constraints**](https://docs.google.com/document/d/1MPX0L4Ly6EHHDswe7LlRZ1mbG5RiGYGg_dyWkMnsuL8/edit)
 
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
@@ -100,7 +101,8 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 ![Trello](https://github.com/LiangHong95/GuideXP-S2/blob/master/trello.png)<br/>
 
 <h2><a name = "Title7"> 7. Prototypes</a></h2>
-[Wireframe for Admin panel](https://share.proto.io/FN2QJE/) <br />
+
+* [Wireframe for Admin panel](https://share.proto.io/FN2QJE/)
 
 
 <h2><a name = "Title7"> 8. Timeline and Milestones</a></h2>
