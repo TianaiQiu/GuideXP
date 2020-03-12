@@ -49,7 +49,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 <br />
 <h2><a name = "Title3"> 3. Project Objectives </a></h2>
 
-1. Design a clean, user-friendly Admin panel for content creators to upload and manage contents easily.
+1. Design and deliver a clean, user-friendly Admin panel for content creators to upload and manage contents easily.
 2. Enable content creators to have their own account for content management. 
 
 
@@ -64,24 +64,24 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Code:**
   
-[**GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
+[**Previous GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
 
 
 **Documentation:**
 
 [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
-[**Satement of Work**](https://docs.google.com/document/d/1KDpQxmzQtpwUtSozkL6lHMTC8LhZd5kU/edit)
+[**Satement of Work**](https://dochub.com/494799344qta/agbv3DW/statement-of-work-pdf)
 
-[**Non-Disclosure Agreement**](https://docs.google.com/document/d/1mmaRMbnbYcJxdF6QGXykJa_VQpWZYXWF/edit)
+[**Non-Disclosure Agreement**](https://dochub.com/494799344qta/7nelbZ7/signed-non-disclosure-agreement-pdf)
 
 [**Decision Log**](https://docs.google.com/spreadsheets/d/1hQt11Xt4dzNecmyvOS8pPnrNFop7u1uW/edit#gid=1651838644)
 
 [**Meeting Minutes**](https://drive.google.com/drive/folders/1h3PqQCQRvhWUd26UFqAXK24vy-yfvR3_)
 
-[**Risk Register**](https://docs.google.com/spreadsheets/d/1PbCzzLfY3EfaVZAUgcWpIOn0kBLQdsFeYNPnOcr0tRk/edit#gid=0)
+[**Risk Register**](https://dochub.com/494799344qta/q4WOQaE/project-risk-register-pdf)
 
-[**Project Constraints**](https://docs.google.com/document/d/1MPX0L4Ly6EHHDswe7LlRZ1mbG5RiGYGg_dyWkMnsuL8/edit)
+[**Project Constraints**](https://dochub.com/494799344qta/pkMODDD/project-constraints-pdf)
 
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
@@ -92,7 +92,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 |----------------------------------|------------------------------------------| 
 | Tianai Qiu                       | Project manager,scrum manager            | 
 | Bo Liu                           | Front-end (HTML,CSS), Documentation      | 
-| Yihua Zhang                      | Front-end (HTML,CSS), Documentation      |
+| Yihua Zhang                      | UI Design, Documentation                 |
 | Yu Qiu                           | Back-end, API, Documentation             |              
 
 **Agile Tasks Assignment and User Stories**
