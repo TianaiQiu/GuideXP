@@ -69,20 +69,23 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Documentation:**
 
-All documents are stored in:[**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
+All documents are stored in: [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
-**Satement of Work**
+which including:
 
-[**Non-Disclosure Agreement**](https://dochub.com/494799344qta/7nelbZ7/signed-non-disclosure-agreement-pdf)
+- Satement of Work
 
-[**Decision Log**](https://docs.google.com/spreadsheets/d/1hQt11Xt4dzNecmyvOS8pPnrNFop7u1uW/edit#gid=1651838644)
+- Non-Disclosure Agreement
 
-[**Meeting Minutes**](https://drive.google.com/drive/folders/1h3PqQCQRvhWUd26UFqAXK24vy-yfvR3_)
+- Decision Log
 
-[**Risk Register**](https://dochub.com/494799344qta/q4WOQaE/project-risk-register-pdf)
+- Meeting Minutes
 
-[**Project Constraints**](https://dochub.com/494799344qta/pkMODDD/project-constraints-pdf)
+- Risk Register
 
+- Project Constraints
+
+- Audit PowerPoint
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
 
