@@ -74,18 +74,14 @@ All documents are stored in: [**Google Drive Documents**](https://drive.google.c
 which including:
 
 - Satement of Work
-
 - Non-Disclosure Agreement
-
 - Decision Log
-
 - Meeting Minutes
-
 - Risk Register
-
 - Project Constraints
-
 - Audit PowerPoint
+- Definitions of Status for Scrum Board
+- Stakeholder Analysis
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
 
