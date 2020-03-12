@@ -69,9 +69,9 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Documentation:**
 
-[**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
+All documents are stored in:[**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
-[**Satement of Work**](https://dochub.com/494799344qta/agbv3DW/statement-of-work-pdf)
+**Satement of Work**
 
 [**Non-Disclosure Agreement**](https://dochub.com/494799344qta/7nelbZ7/signed-non-disclosure-agreement-pdf)
 
@@ -98,7 +98,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 **Agile Tasks Assignment and User Stories**
 
 [Trello](https://trello.com/b/XKZ5eXEm/guidexp-techlauncher-2020) <br />
-![Trello](https://github.com/LiangHong95/GuideXP-S2/blob/master/trello.png)<br/>
+![Trello](https://github.com/TianaiQiu/GuideXP/blob/master/trello%202020Sem1.png)<br/>
 
 <h2><a name = "Title7"> 7. Prototypes</a></h2>
 
@@ -111,12 +111,12 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 |Period               |    Schedule                                                                                  | 
 |---------------------|----------------------------------------------------------------------------------------------| 
-|Week2                |Discovery of requirements, organize all files and documents.                                  |
+|Week2                |Discovery of requirements.                                                                    |
 |Week3 -Week4         |Design Admin panel and create a wireframe for it.                                             |
-|Week5 - Week6        |Implement the design of Admin panel.                                                          |
-|Week7 - Week8        |                                                                                              |
-|Week9 - Week10       |Finalize implementation of Admin panel, prepare testing.                                      |
-|Week11 - week12      |Test, debug and gather feedback from clients and pass onto our clients.                       |
+|Week5 - Week6        |Realized “create account” and “login” function.                                               |
+|Week7 - Week8        |Build UI for adding and editing exhibition content.                                           |
+|Week9 - Week10       |Build analytics dashboard for admins.                                                         |
+|Week11 - week12      |Test, debug and gather feedback from users and pass onto clients.                             |
 
 <br />
 
@@ -124,11 +124,10 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 | Phase          |    Milestones                                                                               | 
 |----------------|---------------------------------------------------------------------------------------------| 
-| Phase 1        |Discovery report.                                                                            |
-| Phase 2        |The design of Admin panel be confirmed by clients.                                           |
+| Phase 1        |The design of Admin panel be confirmed by clients.                                           |
+| Phase 2        |Discovery report.                                                                            |
 | Phase 3        |Useable prototype of Admin panel.                                                            |
-| Phase 4        |Improved version of Admin panel.                                                             |
-| Phase 5        |The Admin panel works with modern desktop web browsers and mobile devices.                   |
+| Phase 4        |The Admin panel works with modern desktop web browsers and mobile devices.                   |
                                                       
 
 <br />
