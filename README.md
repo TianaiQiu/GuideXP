@@ -64,7 +64,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Code:**
   
-[**Previous GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) (You should have the premission to access)
+[**Previous GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) 
 
 
 **Documentation:**
@@ -85,18 +85,19 @@ which including:
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
 
-**Roles**
+**Roles:**
 
 | Team Member                      | Role                                     | 
 |----------------------------------|------------------------------------------| 
-| Tianai Qiu                       | Project manager,scrum manager            | 
+| Tianai Qiu                       | Project manager, scrum manager            | 
 | Bo Liu                           | Front-end (HTML,CSS), Documentation      | 
 | Yihua Zhang                      | UI Design, Documentation                 |
 | Yu Qiu                           | Back-end, API, Documentation             |              
 
-**Agile Tasks Assignment and User Stories**
 
-[Trello](https://trello.com/b/XKZ5eXEm/guidexp-techlauncher-2020) <br />
+**Agile Tasks Assignment and User Stories:**
+
+[Trello](https://trello.com/b/XKZ5eXEm/guidexp-techlauncher-2020) <br /> (You should have the premission to access)
 ![Trello](https://github.com/TianaiQiu/GuideXP/blob/master/trello%202020Sem1.png)<br/>
 
 <h2><a name = "Title7"> 7. Prototypes</a></h2>
