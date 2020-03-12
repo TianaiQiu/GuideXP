@@ -100,6 +100,8 @@ which including:
 [Trello](https://trello.com/b/XKZ5eXEm/guidexp-techlauncher-2020) <br /> (You should have the premission to access)
 ![Trello](https://github.com/TianaiQiu/GuideXP/blob/master/trello%202020Sem1.png)<br/>
 
+[Definitions of Status for Scrum Board](https://docs.google.com/document/d/1H9Th9iIIG1TnO3qsSb__zL2MSm4-hzFr/edit) 
+
 <h2><a name = "Title7"> 7. Prototypes</a></h2>
 
 * [Wireframe for Admin panel](https://share.proto.io/FN2QJE/)
