@@ -104,7 +104,7 @@ which including:
 
 <h2><a name = "Title7"> 7. Prototypes</a></h2>
 
-* [Wireframe for Admin panel](https://share.proto.io/FN2QJE/)
+* [Wireframe for Admin panel](https://marvelapp.com/70640ai)
 
 
 <h2><a name = "Title7"> 8. Timeline and Milestones</a></h2>
