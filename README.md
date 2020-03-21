@@ -24,6 +24,9 @@ GuideXP System:
 * [GuideXP Vistor System](http://www.guidexp.me/)
 * [GuideXP Admin System](http://admin.guidexp.me/)
 
+Code: 
+* [GuideXP Code Git-repo](https://github.com/DannyFirmin/GuideXP-Codes) 
+
 Prototypes:
 * [GUI Interaction](https://marvelapp.com/317d466/screen/33853357) <br />
 * [Wordpress](http://www.guidexp.me/) <br />
@@ -64,7 +67,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Code:**
   
-[**Previous GuideXP Code Git-repo**](https://github.com/DannyFirmin/GuideXP-Codes) 
+[**20S1GuideXP Code Git-repo**](https://github.com/TianaiQiu/20S1_GuideXP) 
 
 
 **Documentation:**
