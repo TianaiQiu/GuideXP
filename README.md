@@ -72,7 +72,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 
 **Documentation:**
 
-All documents are stored in: [**Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
+All documents are stored in: [**GuideXP Google Drive Documents**](https://drive.google.com/drive/folders/1QoNqJZiU1M6AorfAg9V4DFvdGGcFCpim)
 
 which including:
 
@@ -90,7 +90,7 @@ which including:
 
 <h2><a name = "Title5"> 6. Team Roles and Management </a></h2>
 
-**Roles:**
+**Team Roles:**
 
 | Team Member                      | Role                                     | 
 |----------------------------------|------------------------------------------| 
