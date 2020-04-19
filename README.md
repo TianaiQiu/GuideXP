@@ -68,7 +68,7 @@ The GuideXP Team consists of four members plus the ANU TechLauncher team, with a
 **Code:**
   
 [**20S1GuideXP Code Git-repo**](https://github.com/TianaiQiu/20S1_GuideXP) 
-(You should have the premission to access, if not, please provide your Github Account Username at the [this spreadsheet](https://docs.google.com/spreadsheets/d/1OKGav3Mv5iKjuAubuCN52fGjBKV2E_MeF_bBaH9H6Bg/edit#gid=0). We will add you in this repo.)
+(You should have the premission to access, if not, please provide your Github Account Username at [this spreadsheet](https://docs.google.com/spreadsheets/d/1OKGav3Mv5iKjuAubuCN52fGjBKV2E_MeF_bBaH9H6Bg/edit#gid=0). We will add you in this repo.)
 
 **Documentation:**
 
